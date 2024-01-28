@@ -31,7 +31,7 @@
       "max": 4
     },
     "max-kanji-continuous-len": {
-      "max": 6
+      "max": 8
     },
     "max-ten": true,
     "no-doubled-conjunction": true,

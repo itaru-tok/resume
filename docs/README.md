@@ -2,36 +2,43 @@
 
 ## 基本情報
 
-| key      | value                   |
+|          |                         |
 | -------- | ----------------------- |
-| 氏名     | 川俣 涼（Kawamata Ryo） |
-| 生年月日 | 1989/04/25              |
-| 居住地   | 茨城県                  |
-| 最終学歴 | 立命館大学経営学部      |
+| 氏名     | 徳田 格（Tokuda Itaru） |
+| 生年月日 | 1996/09/30              |
+| 出身地   | 石川県                  |
+| 居住地   | 東京都                  |
+| 最終学歴 | 富山大学経済学部        |
 
 ---
 
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-<a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+<a href="https://github.com/cuon-tokuda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/cuontokuda-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/itaru-tok" target="_blank"><img alt="Github" src="https://img.shields.io/badge/itarutok-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 保有スキル
+## 資格
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測など）
-- UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行補助
+- TOEIC 895 点
+- 中国語検定 HSK6 級 186 点（最上級)
+- IT パスポート
+
+---
+
+## スキル
+
+- Rails でのバックエンド開発
+- CRUD 実装と並行しての Rspec テスト
+- Rails での API 開発
+- React でのフロントエンド開発
+- レガシーコード から React への SPA 化
+- ChatGPT・Cursor を用いての開発効率化
+- テック業界用語を用いてのビジネス英語会話
+- 英語の動画やドキュメントから情報取得
 
 ---
 
@@ -40,42 +47,49 @@
 ### 言語
 
 <p>
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
 </p>
 
-### フレームワーク・その他
+### フレームワークなど
 
 <p>
-<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
- <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+
+### インフラ
+
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ## 職務経歴詳細
 
-### LAPRAS 株式会社（2021/03〜現在）
+### 株式会社 Cuon（2023/03〜現在）
 
-AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
-開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
+Ruby on Rails を強みとした受託開発企業 Cuon のバックエンドエンジニアとして従事。
+Rails の API 開発・機能実装を軸として、React などのフロントエンド開発も行なっている。
 
-- **プロジェクト規模：**
-  - 平均 2〜5 人チームでのスクラム開発
+| 期間                       | 業務内容                                                                                             | 技術スタック                                    | OS              | チーム構成                     |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------- | ------------------------------ |
+| 2020 年 7 月〜2021 年 4 月 | 業務：Azure（クラウドシステム）移行プロジェクト<br>取引企業：日本タイヤサプライヤーズ                | サーバー/構築：<br>・運用テスト<br>・運用テスト | [OS]<br>・Linux | チーム 5 名<br>職位：メンバー  |
+|                            | [担当業務]<br>・開発環境テスト継続構築<br>・運用テスト<br>・アプリ依存対応<br>・各種ドキュメント作成 | [DB]<br>・Oracle<br>・SAP                       |                 | 担当：サーバー構築、運用テスト |
+
+- **プロジェクト概要：**
+  | 期間 | 業務内容 | 技術スタック |
+  | --- | --- | --- |
+  | 2023 年 5 月〜現在 | 業務：Azure（クラウドシステム）移行プロジェクト<br>取引企業：日本タイヤサプライヤーズ | サーバー/構築：<br>・運用テスト<br>・運用テスト<br><br>[OS]<br>・Linux<br><br>[DB]<br>・Oracle<br>・SAP |
+  | | [担当業務]<br>・開発環境テスト継続構築<br>・運用テスト<br>・アプリ依存対応<br>・各種ドキュメント作成 | チーム 5 名<br>職位：メンバー<br>担当：サーバー構築、運用テスト |
 - **プロジェクト詳細：**
+- **実装詳細：**
   - Vue.js での SPA 開発
   - Python, Django での API 開発
   - ライブラリアップデートの仕組み作り
