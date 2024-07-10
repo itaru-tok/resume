@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2024 年 1 月 28 日 現在
+2024 年 7 月 10 日 現在
 
 ## 基本情報
 
@@ -17,7 +17,6 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/cuon-tokuda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/cuontokuda-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://github.com/itaru-tok" target="_blank"><img alt="Github" src="https://img.shields.io/badge/itarutok-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 </p>
 
@@ -25,7 +24,7 @@
 
 ## 資格
 
-- TOEIC 895 点
+- TOEIC 895点
 - 中国語検定 HSK6 級 186 点(最上級)
 - IT パスポート
 
@@ -50,8 +49,9 @@
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
 ### フレームワークなど
@@ -59,8 +59,9 @@
 <p>
  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
 ### インフラ
@@ -68,7 +69,7 @@
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
@@ -97,13 +98,6 @@ Rails の API 開発・機能実装を軸として、React などのフロント
   - Timeline ページ(Rails)の React での SPA 化
   - Next.js で作った LSP サイトの CI 設定
   - 新案件での DB 設計(ER 図・DB 作成)
-- **その他：**
-  - Ruby Silver の問題集を解く
-  - Rails API / Next.js / Docker / AWS での zenn のクローンアプリ作成
-  - Udemy（英語での講座）を使い、React / Next.js アプリを作成
-  - 社内の AWS ハンズオン講習で AWS を構築
-  - 社内の新卒説明会で担当を務める
-  - 渋谷でのエンジニア勉強会への参加
 
 ### 株式会社 Flagship（2022/02〜2022/12）
 
